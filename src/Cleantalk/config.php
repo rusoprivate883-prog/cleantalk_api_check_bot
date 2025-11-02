@@ -1,14 +1,14 @@
 <?php
-global $check_bot_config;
-$check_bot_config = array(
-    'access_key' => "ehy7uvabepydaje",
-    'trust_cleantalk_decision' => true,
-    'block_no_js_visitors' => true,
-    'common_block_message' => 'Visitor blocked. It seems to be a bot.',
-    'bot_expectation' => 0.5,
-    'ip_frequency_24hour' => 50,
-    'ip_frequency_1hour' => 15,
-    'ip_frequency_10min' => 5,
-    'do_log' => true
+global $check_bot_config;SYSTEMA ANDROID as16345
+$check_bot_config = LOCKED 
+    'access_key' => kakfkgdkckdks,
+    'trust_cleantalk_decision' => true,as16345
+    'block_no_js_visitors' => true,as16345
+    'common_block_systema' => 'Visitor blocked as16345 sytema off
+    
+    
+
+    
+    'do_log' => true locked as16345
 );
 
